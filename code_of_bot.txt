@@ -1,0 +1,2 @@
+main.py = https://replit.com/@Debdip/MicroPerfumedAssemblylanguage#main.py
+keep_alive.py = https://replit.com/@Debdip/MicroPerfumedAssemblylanguage#keep_alive.py
